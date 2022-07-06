@@ -1,0 +1,37 @@
+
+.createPost{
+    height: 90vh;
+    display: flex;
+   text-align: center;
+   justify-content: center;
+    
+    background-color: gainsboro;
+}
+.cpContainer{
+   
+    background-color: white;
+    width: 40%;
+    margin-top:50px;
+    height: 70%;
+    box-shadow: 5px 10px black;
+    
+    
+
+}
+.cpContainer h1{
+    margin-bottom: 20px;
+}
+.inputGp{
+    display: flex;
+    flex-direction: column;
+}
+.inputGp .post{
+    width: 60%;
+    margin: 10px;
+}
+.inputGp .text{
+    margin: 10px;
+    width: 500px;
+  height: 150px;
+  padding: 5px;
+}

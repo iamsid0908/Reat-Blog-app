@@ -1,0 +1,27 @@
+.homePage{
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: gainsboro;
+    
+}
+.postlol{
+    
+    background-color: white;
+    height: 300px;
+    width: 50%;
+    overflow: scroll;
+    margin: 20px;
+    border-radius: 4px;
+    box-shadow: 5px 10px black;
+
+}
+.postTilte{
+    border: 2px solid black;
+    margin: 20px;
+}
+.postText{
+    margin: 20px;
+}

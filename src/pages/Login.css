@@ -1,0 +1,30 @@
+.log{
+    border: 2px solid red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+    background-image: url("https://images.pexels.com/photos/547114/pexels-photo-547114.jpeg?cs=srgb&dl=pexels-krivec-ales-547114.jpg&fm=jpg");
+    min-height: 380px;
+    background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+.sign-in{
+    
+    
+    height: 15px;
+    font-weight: bold;
+    font-size: 40px;
+    
+}
+.container{
+    border: 3px solid blue;
+    width: 40%;
+    background-color: white;
+    height: 40%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
