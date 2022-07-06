@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Reat-Blog-app/static/css/main.fd617824.css",
+    "main.js": "/Reat-Blog-app/static/js/main.b79a5f96.js",
+    "static/js/787.856a2c82.chunk.js": "/Reat-Blog-app/static/js/787.856a2c82.chunk.js",
+    "index.html": "/Reat-Blog-app/index.html",
+    "main.fd617824.css.map": "/Reat-Blog-app/static/css/main.fd617824.css.map",
+    "main.b79a5f96.js.map": "/Reat-Blog-app/static/js/main.b79a5f96.js.map",
+    "787.856a2c82.chunk.js.map": "/Reat-Blog-app/static/js/787.856a2c82.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd617824.css",
+    "static/js/main.b79a5f96.js"
+  ]
+}
